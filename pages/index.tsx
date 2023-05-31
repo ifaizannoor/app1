@@ -12,7 +12,7 @@ export default function Home() {
         <title>Header Nothing</title>
       </Head>
       <main>
-        Demo - 31 May 2023
+        Syndica Demo - 31 May 2023 
       </main>
     </>
   )
