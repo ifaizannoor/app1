@@ -12,7 +12,7 @@ export default function Home() {
         <title>Header Nothing</title>
       </Head>
       <main>
-        Okay? v6 [dev update]
+        Demo - 31 May 2023
       </main>
     </>
   )
