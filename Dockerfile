@@ -17,4 +17,3 @@ RUN pnpm install
 RUN pnpm run build
 EXPOSE 3000
 CMD pnpm run start
-# END - 12 June 2023
