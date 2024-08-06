@@ -17,4 +17,5 @@ RUN pnpm install
 RUN pnpm run build
 EXPOSE 3000
 CMD pnpm run start
+
 # Demo - 06 Aug 2024 - LIVE on v2 Prod
