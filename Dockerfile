@@ -15,7 +15,7 @@ RUN pnpm install
 
 # start app
 RUN pnpm run build
-EXPOSE 3000
+EXPOSE 4004
 CMD pnpm run start
 
 # Demo - 06 Aug 2024 - LIVE on v2 Prod
